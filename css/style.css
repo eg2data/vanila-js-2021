@@ -1,0 +1,15 @@
+.hidden {
+    display: none;
+}
+
+.sizeOne {
+    background-color: skyblue;
+}
+
+.sizeTwo {
+    background-color: purple;
+}
+
+.sizeThree {
+    background-color: yellow;
+}
